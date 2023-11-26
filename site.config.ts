@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Hannah Wood',
 
   // open graph metadata (optional)
-  description: 'Hannah Wood's Personal Website',
+  description: 'Hannah Wood\'s Personal Website',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
