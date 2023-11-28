@@ -20,9 +20,9 @@ export default siteConfig({
   // twitter: 'transitive_bs',
   //github: 'transitive-bullshit',
   linkedin: 'https://www.linkedin.com/in/hannah-lm-wood/',
-  Instagram: 'https://www.instagram.com/hannahs_kitchan',
+  instagram: 'https://www.instagram.com/hannahs_kitchan', 
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  // newsletter: '#', // optional newsletter URL
+  newsletter: 'https://www.instagram.com/hannahs_kitchan', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
