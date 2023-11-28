@@ -20,7 +20,7 @@ export default siteConfig({
   // twitter: 'transitive_bs',
   //github: 'transitive-bullshit',
   linkedin: 'https://www.linkedin.com/in/hannah-lm-wood/',
-  Instagram: 'hannahs_kitchan",
+  Instagram: 'https://www.instagram.com/hannahs_kitchan',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
